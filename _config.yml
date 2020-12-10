@@ -8,7 +8,7 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://ninalopergolo.github.io/PUBH3201-lab4"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -42,11 +42,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
-  facebook: yourfacebook
-  github: yourgithub
-  twitter: yourtwitter
+  name: Nina Lopergolo
+  
 #  linkedin: "pub/dean-attali/8/946/143"
 #  stackoverflow: "users/3943160/daattali"
  
